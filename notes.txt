@@ -1,0 +1,16 @@
+start react running "npx create-react-app [my apps name]"
+cd my app
+npm start
+
+Next.js is a lightweight framework with pre-designed components in React. 
+Pretty much like bootstrap but with React but only for server-rendered apps
+
+Gatsby is the bootstrap of react with HTML and css included
+
+Never erase the index.html file or the index.js file, as they are found by webpack to run the app
+
+only the code written inside the src folder will be applied to the public one. The rest is used as 
+documentation
+
+the public folder contains everything what the user will see
+

@@ -1,0 +1,29 @@
+{
+  "name": "tic-tac-toe-game",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkCarbonell98/first_React_Tic_Tac_Toe.git"
+  },
+  "author": "Marcos Carbonell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkCarbonell98/first_React_Tic_Tac_Toe/issues"
+  },
+  "homepage": "https://github.com/MarkCarbonell98/first_React_Tic_Tac_Toe#readme"
+}
